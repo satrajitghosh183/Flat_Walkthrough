@@ -1,7 +1,3 @@
-# Flat_Walkthrough
-A housing apartment walkthrough for a flat in a highrise building 
-
-
 # Apartment Walkthrough VR Application
 
 This repository contains a virtual reality (VR) application for housing viewing, created using Unity and Blender. The application is designed to be viewed using the Oculus Quest VR headset.
