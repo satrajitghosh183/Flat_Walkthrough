@@ -54,4 +54,21 @@ If you encounter any issues while running the VR application, please try the fol
 
 If the above steps do not resolve your issue, please refer to the documentation or seek support from the respective Unity, Blender, or Oculus communities.
 
+![Screenshot 2023-06-14 133300 (1)](https://github.com/satrajitghosh183/Flat_Walkthrough/assets/83156880/7ccb494e-eada-4148-b98f-352f2c5dd49e)
+
+
+![Screenshot 2023-06-14 133300](https://github.com/satrajitghosh183/Flat_Walkthrough/assets/83156880/ffd61549-103f-4244-91a6-a8eff163b11f)
+
+![image](https://github.com/satrajitghosh183/Flat_Walkthrough/assets/83156880/8a1b34aa-def8-4152-9aa5-6c9f58d3049f)
+
+
+
+![image](https://github.com/satrajitghosh183/Flat_Walkthrough/assets/83156880/6cb432fb-e74c-44d6-8b61-9236a0cc54dc)
+
+![image](https://github.com/satrajitghosh183/Flat_Walkthrough/assets/83156880/3a35697c-925c-4bb2-ac0d-2de0783eaa18)
+
+
+![image](https://github.com/satrajitghosh183/Flat_Walkthrough/assets/83156880/d4fb8d1e-45e0-4181-87f1-231fe3480832)
+
+
 
